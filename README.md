@@ -1,6 +1,10 @@
 # **[StuDocu] QA Engineer - Technical Assignment**
 
 ---
+The written part of the Technical Assignment is available [HERE](https://docs.google.com/document/d/1qqHFKcX_IJblHih9Rg4qQCNVAKdgVXveZ3Ag8quNPgA/edit?usp=sharing).
+
+The coding part is described below.
+
 ## Technical Stack
 
 * **Project**: *Maven*
