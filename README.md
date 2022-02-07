@@ -1,4 +1,4 @@
-# **[StuDocu] QA Engineer - Technical Assessment**
+# **[StuDocu] QA Engineer - Technical Assignment**
 
 ---
 ## Technical Stack
