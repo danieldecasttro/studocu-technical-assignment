@@ -39,3 +39,8 @@ After the environment setup described above, run the test scenarios following th
 * **Verify the test run report**: navigate to the folder ```reports``` and open the file ```test-report.html``` in the browser
 
 ---
+
+Author: Daniel Castro<br>
+E-mail: [daniel@kodeout.tk](mailto:daniel@kodeout.tk)<br>
+Phone: (+31) 06 19722574
+
